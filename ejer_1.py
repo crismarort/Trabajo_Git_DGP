@@ -14,9 +14,6 @@ def suma(l):
 
 #Suma de cuadrados de una lista:
 
-def suma_cuadrados(n):
-    return sum([î**2 for i in n if i%2==0])
-
 
 
 #Maximo de una lista:
