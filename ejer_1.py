@@ -14,6 +14,8 @@ def suma(l):
 
 #Suma de cuadrados de una lista:
 
+def sum(x,y):
+    return x+y
 
 
 #Maximo de una lista:
